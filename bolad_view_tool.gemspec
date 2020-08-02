@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Custom copyright footer for my personal projects}
   spec.description   = %q{Provides generated HTML data for Rails Applications}
-  spec.homepage      = "stanley-akyea.com"
+  spec.homepage      = "https://emmanuelhayford.com/"
   spec.license       = "MIT"
 
   # Specify which files should be added to the gem when it is released.
